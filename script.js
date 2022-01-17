@@ -1,0 +1,1 @@
+<button onclick="techno.html">Continue</button>

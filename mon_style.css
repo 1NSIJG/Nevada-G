@@ -1,0 +1,38 @@
+*{	color: white;
+	text-align: center;
+	}
+body{
+	background-color: #001a33
+	}
+	
+#red{
+	color:red;
+	} 
+h2{
+	font-family:"Lucida Console", "Courier New", monospace;
+	}
+p{
+	font-family:Comic Sans MS;
+	}
+a.bb{
+	font-weight:bold;
+	}
+#titre{
+	font-family:"Gill sans nova";
+	font-size: 22;
+}
+.butt{
+    background-color: #004280;
+	font-size: 24px;
+	padding: 0 7em 0 7em;
+}
+
+a:hover {
+  background-color: #00334d;
+}
+
+
+.return{
+	background-color: #004280;
+	font-size: 17px;
+	}
